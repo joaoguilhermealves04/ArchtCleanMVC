@@ -1,18 +1,17 @@
 ﻿using CleanArchMvc.Application.Interfaces;
 using CleanArchMvc.Application.Mapping;
 using CleanArchMvc.Application.Services;
+using CleanArchMvc.Domain.Account;
 using CleanArchMvc.Domain.Interfaces;
 using CleanArchMvc.Infra.Data.Context;
+using CleanArchMvc.Infra.Data.Identity;
 using CleanArchMvc.Infra.Data.Repository;
 using MediatR;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CleanArchMvc.Infra.Ioc
 {
@@ -22,8 +21,15 @@ namespace CleanArchMvc.Infra.Ioc
             IConfiguration confiruation)
         {
             services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(confiruation.
-                GetConnectionString("DefaulConnection"),b=>b.MigrationsAssembly(typeof(ApplicationDbContext)
-                .Assembly.FullName)));
+                GetConnectionString("DefaulConnection"), b => b.MigrationsAssembly(typeof(ApplicationDbContext)
+                 .Assembly.FullName)));
+
+            services.AddIdentity<ApplicationUser, IdentityRole>()
+                   .AddEntityFrameworkStores<ApplicationDbContext>()
+                   .AddDefaultTokenProviders();
+
+            services.ConfigureApplicationCookie(options =>
+                        options.AccessDeniedPath = "/Account/Login");
 
             //Repositorios 
             services.AddScoped<ICategoryRepository, CategoryRepository>();
@@ -33,13 +39,19 @@ namespace CleanArchMvc.Infra.Ioc
             services.AddScoped<IProductServices, ProductServices>();
             services.AddScoped<ICategoryServices, CategoryServices>();
 
+            //Autenticação / Permissão
+            services.AddScoped<IAuthenticate,AuthenticateService>();
+            services.AddScoped<ISeedUserRoleInitial,SeedUserRoleInitial>();
+
             // Nome do Arquivo que foi feita as configurações do Automapper
             services.AddAutoMapper(typeof(DomainToDtoMappingProfile));
 
             var myhandlers = AppDomain.CurrentDomain.Load("CleanArchMvc.Application");
             services.AddMediatR(myhandlers);
 
+
             return services;
         }
+
     }
 }

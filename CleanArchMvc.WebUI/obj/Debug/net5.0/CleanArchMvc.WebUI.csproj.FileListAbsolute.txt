@@ -23,8 +23,6 @@ C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\ref
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
-C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
@@ -109,8 +107,6 @@ C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\ref
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
-C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
-C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
@@ -345,7 +341,6 @@ C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\sta
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.TagHelpers.input.cache
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.TagHelpers.output.cache
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.RazorCoreGenerate.cache
-C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
@@ -399,3 +394,15 @@ C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Med
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
+C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
+C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
+C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
+C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
