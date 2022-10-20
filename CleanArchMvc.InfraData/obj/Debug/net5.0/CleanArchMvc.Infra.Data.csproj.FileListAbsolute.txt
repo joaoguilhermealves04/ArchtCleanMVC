@@ -1,4 +1,6 @@
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.InfraData\bin\Debug\net5.0\CleanArchMvc.Infra.Data.deps.json
+C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.InfraData\bin\Debug\net5.0\CleanArchMvc.Infra.Data.runtimeconfig.json
+C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.InfraData\bin\Debug\net5.0\CleanArchMvc.Infra.Data.runtimeconfig.dev.json
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.InfraData\bin\Debug\net5.0\CleanArchMvc.Infra.Data.dll
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.InfraData\bin\Debug\net5.0\ref\CleanArchMvc.Infra.Data.dll
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.InfraData\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
@@ -13,6 +15,4 @@ C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net5.0
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net5.0\CleanArchMvc.Infra.Data.dll
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net5.0\ref\CleanArchMvc.Infra.Data.dll
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
-C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.InfraData\bin\Debug\net5.0\CleanArchMvc.Infra.Data.runtimeconfig.json
-C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.InfraData\bin\Debug\net5.0\CleanArchMvc.Infra.Data.runtimeconfig.dev.json
 C:\Users\joaog\source\repos\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net5.0\CleanArchMvc.Infra.Data.genruntimeconfig.cache

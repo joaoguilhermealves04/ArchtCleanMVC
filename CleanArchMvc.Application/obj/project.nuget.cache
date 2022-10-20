@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "exJiA/gi2ydV6bb81/hsq+OuNo0J3VDbctq4kN+o+BWBdUfbb+aGyqDl3CwPc+ta4kt0kii3b8vY5neIp8i4oA==",
+  "dgSpecHash": "IVQaZ2eZY3Ut29YXFUxIi2+ELar/Ix6XFCStVqjQ8oecFbnEAXHzmr122/zIcJC/E02gyEbb6KsYDSFok48tiw==",
   "success": true,
   "projectFilePath": "C:\\Users\\joaog\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\joaog\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
-    "C:\\Users\\joaog\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
-    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\joaog\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+    "C:\\Users\\joaog\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\joaog\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\joaog\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

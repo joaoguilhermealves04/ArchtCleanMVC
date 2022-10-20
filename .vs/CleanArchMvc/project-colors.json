@@ -35,7 +35,12 @@
       "ProjectGuid": "164760c5-c150-4b91-aa11-af124d1610f3",
       "DisplayName": "CleanArchMvc.Application",
       "ColorIndex": 5
+    },
+    "bcc88a56-a435-4c6f-96de-9f51378dfddb": {
+      "ProjectGuid": "bcc88a56-a435-4c6f-96de-9f51378dfddb",
+      "DisplayName": "CleanArcheMvc.API",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }
